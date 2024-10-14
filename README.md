@@ -1,4 +1,4 @@
-# Syncrotel Project
+# Syncrotel Project - Git Project Ed.
 
 ## Languages
 
